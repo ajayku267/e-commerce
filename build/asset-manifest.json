@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d9d87184.css",
+    "main.js": "/static/js/main.9d0a3b11.js",
+    "static/media/banner.png": "/static/media/banner.8635d82585a52811c4fd.png",
+    "static/media/logo.jpeg": "/static/media/logo.d56420f0da50b15a10e9.jpeg",
+    "static/media/1677236412281-01.jpeg": "/static/media/1677236412281-01.07ee1a03319ce93e85e7.jpeg",
+    "static/media/img2.jpg": "/static/media/img2.10b10ee2c36947f9b5f0.jpg",
+    "static/media/closeicon.png": "/static/media/closeicon.4de2457f5c98aeb06823.png",
+    "static/media/-1_orig (1).jpeg": "/static/media/-1_orig (1).06266307ea3e3076928e.jpeg",
+    "static/media/pngfind.com-pinterest-png-465295.png": "/static/media/pngfind.com-pinterest-png-465295.669b0f74866610ed5721.png",
+    "static/media/pngfind.com-instagram-png-white-2773517.png": "/static/media/pngfind.com-instagram-png-white-2773517.459d14acdbfb7db227e0.png",
+    "static/media/-1_orig.jpeg": "/static/media/-1_orig.4e222da13c3976865fc5.jpeg",
+    "static/media/home-brakes-hero.webp": "/static/media/home-brakes-hero.7e1caed6cca492e6bead.webp",
+    "static/media/login_img.webp": "/static/media/login_img.1e60a2e86fa1b146d8c2.webp",
+    "static/media/-1_orig (2).jpeg": "/static/media/-1_orig (2).cc5ea081fd7ae5bf8904.jpeg",
+    "static/media/-1_orig (3).jpeg": "/static/media/-1_orig (3).e83daca245ab038b0408.jpeg",
+    "static/media/recyle.png": "/static/media/recyle.2fc54ab4baa51484eb1e.png",
+    "static/media/pngfind.com-logo-twitter-png-transparente-4542609.png": "/static/media/pngfind.com-logo-twitter-png-transparente-4542609.e235a41236accbb582c2.png",
+    "static/media/car 2.png": "/static/media/car 2.791ecfd2dc22d88af9bf.png",
+    "static/media/pngfind.com-joey-graceffa-png-6745261.png": "/static/media/pngfind.com-joey-graceffa-png-6745261.ad921e669a82a8cb56cd.png",
+    "static/media/img4.webp": "/static/media/img4.ec417afc2a25f61c9496.webp",
+    "static/media/clipart2399764.png": "/static/media/clipart2399764.3e4825900dfd37587d98.png",
+    "static/media/car.png": "/static/media/car.668ba1be540cf7942402.png",
+    "static/media/img1.webp": "/static/media/img1.c2167f5626195fdd5344.webp",
+    "static/media/img3.webp": "/static/media/img3.10edfcd7a93fa344945e.webp",
+    "static/media/-1_orig (4).jpeg": "/static/media/-1_orig (4).4c7a213b68a84e176c4a.jpeg",
+    "index.html": "/index.html",
+    "main.d9d87184.css.map": "/static/css/main.d9d87184.css.map",
+    "main.9d0a3b11.js.map": "/static/js/main.9d0a3b11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9d87184.css",
+    "static/js/main.9d0a3b11.js"
+  ]
+}
